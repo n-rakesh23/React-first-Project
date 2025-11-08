@@ -1,0 +1,30 @@
+{
+  "name": "namaste-react-ep-2.2",
+  "version": "1.0.0",
+  "description": "This my first react project",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/n-rakesh23/React-first-Project#readme",
+  "bugs": {
+    "url": "https://github.com/n-rakesh23/React-first-Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-rakesh23/React-first-Project.git"
+  },
+  "license": "ISC",
+  "author": "Rakesh Nayak",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "reactdom": "^2.0.0"
+  }
+}
