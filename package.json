@@ -2,6 +2,10 @@
   "name": "namaste-react-ep-2.2",
   "version": "1.0.0",
   "description": "This my first react project",
+  "source": "index.html",
+  
+  "type": "module",
+
   "keywords": [
     "react"
   ],
@@ -15,8 +19,6 @@
   },
   "license": "ISC",
   "author": "Rakesh Nayak",
-  "type": "commonjs",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -25,6 +27,7 @@
   },
   "dependencies": {
     "react": "^19.2.0",
+    "react-dom": "^19.2.0",
     "reactdom": "^2.0.0"
   }
 }
